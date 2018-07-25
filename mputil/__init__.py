@@ -10,5 +10,5 @@ from .map import lazy_imap
 
 __all__ = [lazy_map, lazy_imap]
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __author__ = "Sebastian Raschka <mail@sebastianraschka.com>"
